@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../linearProgramming/.idea/linearProgramming.iml" filepath="$PROJECT_DIR$/../linearProgramming/.idea/linearProgramming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/restaurantManagementSystem.iml" filepath="$PROJECT_DIR$/.idea/restaurantManagementSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sdpt/.idea/sdpt.iml" filepath="$PROJECT_DIR$/../sdpt/.idea/sdpt.iml" />
+    </modules>
+  </component>
+</project>
